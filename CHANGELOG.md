@@ -1,5 +1,8 @@
 # CHANGELOG
 
+5.0.3 - 2024-11-05
+- Updated the conversion query to force index
+
 5.0.2
 - Archiving: Ensure parameter is provided in correct type
 
