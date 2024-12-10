@@ -19,7 +19,7 @@
         "ScopeVisit": "vizitë fushëveprimi",
         "ScopeX": "Fushëveprim %s",
         "SlotsReportIsGeneratedOverTime": "Të dhënat për këtë raport do të mblidhen me kalimin e kohës. Mund të duhen një a dy ditë që të shihni çfarëdo të dhënash dhe ca javë, përpara se raporti të jetë plotësisht i saktë.",
-        "ToCreateCustomVarExecute": "Për krijimin e një vendi të ri ndryshoreje vetjake ekzekutonirdhrin vijues brenda instalimit tuaj të Matomo-s:",
+        "ToCreateCustomVarExecute": "Për krijimin e një vendi të ri ndryshoreje vetjake ekzekutoni urdhrin vijues brenda instalimit tuaj të Matomo-s:",
         "Unused": "I papërdorur",
         "UsageDetails": "%1$s vizita dhe %2$s veprime që nga krijimi i sajtit.",
         "Usages": "Përdorime"
